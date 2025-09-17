@@ -1,0 +1,43 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset = "UTF-8">
+  <title>Formularz Polityki Prywatności</title>
+  <link rel ="stylesheet" href="{% static 'privacy/css/styles.css' %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Telex&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Urbanist:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <h1>Formularz Polityki Prywatności</h1>
+    <h2 class="form-title">Wprowadź dane</h2>
+    <form method="POST" class="form">
+      {% csrf_token %}
+      <div class="first-row">
+      <div class="form-row" id="left">
+        <p>{{ form.typ_danych.help_text }}</p>
+        {{ form.typ_danych }}
+      </div>
+      <div class="form-row" id="right">
+        <div class="row-element">
+          <p>{{ form.sektor.help_text }}</p>
+          {{ form.sektor }}
+        </div>
+        <div class="row-element">
+          <p>{{ form.jurysdykcja.help_text }}</p>
+          {{ form.jurysdykcja }}
+        </div>
+      </div>
+    </div>
+      <div class="form-row opis">
+        <p>{{ form.opis.help_text }}</p>
+        {{ form.opis }}
+      </div>
+      <button type="submit">Wyślij</button>
+    </form>
+  </div>
+</body>
+</html>

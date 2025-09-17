@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lyrics</title>
+</head>
+<body>
+  <h1>Home</h1>
+  <ul>
+    {% for lyric in lyric_list %}
+      <li>{{lyric.title}}: {{lyric.mood}}</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>

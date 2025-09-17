@@ -1,0 +1,383 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[left=1.9cm,right=1.9cm,top=2cm,bottom=1.5cm]{geometry}
+
+\title{French - la nourriture}
+\author{Alex Madej}
+\date{January 2024}
+
+\begin{document}
+
+\maketitle
+
+
+\section{Fruits}
+\begin{center}
+\textbf{une orange} - an orange \: \:\:\:
+\textbf{une pomme} - an apple \:\:\:\:
+\textbf{une banane} - a banana \: \\
+\textbf{une cerise} - a cherry \:\:\:\: \textbf{une fraise} - a strawberry \:\:\:\: \textbf{une pêche} - a peach \\
+\textbf{manger} - to eat \: \:\:\: \textbf{aimer} - to like \:\:\:\: \textbf{tous les jours, chaque jour} - each day\\
+\textbf{Je mange} - I eat \: \: \textbf{J'aime} - I like 
+\textbf{Tu manges} - You eat \:\: \textbf{Tu aimes} - You like \\
+\textbf{Je ne mange pas} - I don't eat \: \textbf{Tu ne menges pas} - You don't eat \\
+\textbf{Est-ce que vous mangez...?} - Do you eat...? (polite)
+\end{center}
+\vspace{1em}
+\begin{tabular}{l l|l l}
+\textbf{Q:} & Est-ce que tu manges des pommes tous & \textbf{R:} & Oui, je mange une pomme chaque jour.\\ 
+&les jours?   & & Non, je ne mange pas des pommes chaque jour.\\
+\textbf{Q:}&Est-ce que tu aimes les oranges? & \textbf{R:} & Oui, J'aime les oranges.\\
+ & &  & Non, je n'aime pas les oranges.\\
+ & &  & Ils me sont indifférents.\\
+ \textbf{Q:}& Est-ce que tu manges une banane chaque  & \textbf{R:} & Oui, je mange ... \\
+  & jour? && Non, je ne mange pas de banane ... \\
+  \textbf{Q:}& Est-ce que tu manges des pêches tous les &\textbf{R:}& Oui, je mange ...\\
+  & jours? & & Non, je ne mange pas ... \\
+   \textbf{Q:}& Est-ce que tu manges souvent des fraises?  & \textbf{R:} & Oui, je mange ... \\
+  & && Non, je ne mange des fraises qu'en été. \\
+  \textbf{Q:}& Est-ce que tu manges souvent des cerises?&\textbf{R:}& Oui, je mange ...\\
+  &  & & Non, je ne mange pas ... \\
+  
+   \textbf{Q:}& Aimes-tu les pêches?  & \textbf{R:} & Oui, j'aime les ... \\
+  &  &&Non, je n'aime pas les ... \\
+  \textbf{Q:}& Quel fruit manges-tu souvent?&\textbf{R:}& Je mange souvent des ...\\
+  &  & & Je ne mange pas beaucoup de fruits. \\
+   \textbf{Q:}& Quel est ton fruit préféré?  & \textbf{R:} & Mon fruit préféré est la fraise. \\
+  & && Je n’aime pas vraiment les fruits. \\
+  \textbf{Q:}& Pourquoi aimes-tu (ou n'aimes-tu pas)&\textbf{R:}& J'aime les oranges parce qu'elles sont juteuses.\\
+  & les oranges? & & Je n'aime pas les oranges parce qu'elles sont trop acides.\\
+  \textbf{Q:}& Tu ne manges jamais des pommes?&\textbf{R:}& Si, je mange des pommes parfois.\\
+  &  & & Non, je ne mange jamais de pommes.\\
+  \textbf{Q:}& Tu n'aimes pas du tout les bananes?&\textbf{R:}& Si, un peu.\\
+  &  & & Non, je déteste les bananes.\\
+  \textbf{Q:}& Quel fruit manges-tu d'habitude le matin?&\textbf{R:}& D'habitude, je mange des cerises.\\
+  &  & & Je ne mange rien le matin.\\
+  \textbf{Q:}& Achètes tu des fruits chaque semaine?&\textbf{R:}& Oui, j'achète des oranges et des bananes.\\
+  &  & & Non, je n'achète pas souvent de fruits.\\
+  
+  \textbf{Q:}& Préfères-tu les fraises ou les cerises?&\textbf{R:}& Je préfère les fraises.\\
+  &  & & Je n'aime ni l'un ni l'autre.\\
+  \textbf{Q:}& Manges-tu plutôt des pommes ou des poires?&\textbf{R:}& Je mange plutôt des pommes.\\
+  &  & & Je ne mange ni l'un ni l'autre.\\
+  
+\end{tabular} 
+\vspace{5em}
+\begin{center}
+\textbf{une fois par semaine} - once a week \: \: \textbf{un fois par mois} - once a month \: \: \\ 
+\textbf{une fois tous les deux mois} - once in two months \: \: \textbf{une fois par an} - once a year \: \: \textbf{pas souvent} - not often \: \: \textbf{souvent} \: \: \textbf{rarement} - rarely \: \: \textbf{De quelle couleur ... } - What color... ?
+\end{center}
+\vspace{1em}
+\begin{tabular}{l l|c l}
+\textbf{Q:} & Est-ce que vous mangez des & \textbf{R:}  & Non, je ne mange pas de cerises chaque semaine,   \\
+&cerises chaque semaine?&& seulement une fois par mois.\\
+& & & Oui, je mange des cerises une fois par semaine. \\
+\textbf{Q:} & Est-ce que vous mangez des fraises  &\textbf{R:} & Je mange très souvent des fraises en été et  \\
+ &chaque mois? &&très peu en hiver - peut-être une fois tous les\\
+ &&& deux mois. \\
+ &&& Je déteste les fraises, donc j'en mange rarement. \\
+ \textbf{Q:} & Est-ce que vous mangez des cerises &\textbf{R:}& Moi, j'aime les cerises, mais elles sont difficiles à\\
+ & tous les jours? & &digérer, donc on ne peut pas en manger\\
+ &&&très souvent - une fois par semaine maximum.\\
+ &&& Je ne les aime pas beaucoup. J'en mange peut-être\\
+ &&&une fois par an.\\
+ \textbf{Q:} & Aimez-vous les cerises? & \textbf{R:} &Comme je l'ai déjà dit, j'adore les cerises et j'en\\
+ &&&mange souvent.\\
+ &&&Comme je l'ai déjà dit, je n'aime pas les cerises et\\
+ &&&j'en mange pas souvent.\\
+ \textbf{Q:} & Aimez-vous les fraises? & \textbf{R:} & Oui, j'adore les fraises! J'en mange une fois par\\
+ &&&semaine quand c'est la saison.\\
+&&& Non, je n'aime pas les fraises. J'en mange rarement. \\
+ \textbf{Q:} & De quelle couleur sont les oranges? & \textbf{R:}& Les oranges sont de couleur orange. \\
+\textbf{Q:} & De quelle couleur sont les pommes? & \textbf{R:}& La pomme peut être verte, jaune ou rouge.\\
+\textbf{Q:} & De quelle couleur est la banane? & \textbf{R:} & La banane est jaune quand elle est mûre.\\
+\textbf{Q:} & De quelle couleur est la cerise? & \textbf{R:}& La cerise est généralement rouge, mais il existe aussi\\
+&&&des cerises noires.\\
+\textbf{Q:} & De quelle couleur est la pastèque? & \textbf{R:} & La pastèque est rose à l'intérieur et verte à l'extérieur.\\
+\textbf{Q:} & À quelle fréquence mangez-vous des fruits? & \textbf{R:} & Je mange des fruits tous les jours.\\
+&&& Je mange des fruits une fois par semaine, pas souvent.\\
+&&& J'en mange rarement, peut-être une fois par mois.\\
+\textbf{Q:} & Mangez-vous des pommes une fois par  & \textbf{R:} & Oui, généralement le lundi comme collation.\\
+& semaine&& Non, j'en mange plus souvent que ça - tous les jours.\\
+
+\textbf{Q:} & Achetez-vous des kiwis une fois par mois? & \textbf{R:} & Exactement, vers le 15 de chaque mois.\\
+&&& Non, seulement une fois tous les deux mois en hiver.\\
+
+\textbf{Q:} & Consommez-vous des ananas une fois par & \textbf{R:} & Oui, toujours pour Noël.\\
+&an?&& Non, j'en mange rarement car c'est difficile à préparer.\\
+
+\textbf{Q:} & Mangez-vous des raisins pas souvent? & \textbf{R:} & Malheureusement oui, à cause du sucre.\\
+&&& Au contraire, j'en mange souvent comme en-cas.\\
+
+\textbf{Q:} & Prenez-vous des smoothies une fois tous les? & \textbf{R:} & À peu près, seulement quand je rend visite à ma sœur.\\
+&deux mois?&& Bien plus - une fois par semaine au marché.\\
+
+\textbf{Q:} & Goûtez-vous des fruits rouges rarement? & \textbf{R:} & Seulement en juillet, donc oui une fois par an.\\
+&&& Non, souvent quand ils sont de saison.\\
+
+\textbf{Q:} & Achetez-vous des mangues une fois par semaine & \textbf{R:} & Absolument, chaque vendredi au marché.\\
+&en été?&& Non, pas souvent à cause du prix.\\
+
+\textbf{Q:} & Mangez-vous des prunes une fois par mois en& \textbf{R:} & Oui, sous forme de confiture.\\
+&hiver?&& Impossible, c'est un fruit d'été!\\
+
+\textbf{Q:} & Consommez-vous des noix de coco une fois tous? & \textbf{R:} & Environ, dans les desserts asiatiques.\\
+&les deux mois&& Jamais, je déteste la texture.\\
+
+\textbf{Q:} & Prenez-vous des jus d'orange tous les jours? & \textbf{R:} & Non, seulement une fois par semaine.\\
+&&& Oui, chaque matin sans exception.\\
+
+\textbf{Q:} &Mangez-vous des poires souvent en& \textbf{R:} & Naturellement, c'est la saison idéale!\\
+&automne?&& Non, je préfère les pommes.\\
+
+\textbf{Q:} & Achetez-vous des clémentines \textbf{rarement?} & \textbf{R:} & Oui, pas souvent car elles sont chères.\\
+&&& Non, quotidiennement en décembre!\\
+\end{tabular}
+\begin{tabular}{l l|c l}
+\textbf{Q:} & Goûtez-vous des fruits exotiques une fois & \textbf{R:} & Lors de mes vacances, oui.\\
+&par an?&& Plus fréquemment, une fois par mois.\\
+
+\textbf{Q:} &Mangez-vous des abricots une fois par & \textbf{R:} & 3-4 fois par semaine même!\\
+&semaine en été?&& Non, ils me donnent des aphtes.\\
+
+\textbf{Q:} &Consommez-vous des grenades une fois tous? & \textbf{R:} & À peu près, quand j'en trouve bio.\\
+&les deux mois?&& Jamais, trop compliqué à ouvrir.\\
+
+\textbf{Q:} & Prenez-vous des figues pas souvent? & \textbf{R:} & Vrai, seulement une fois par an en Provence.\\
+&&& Faux, souvent séchées en hiver.\\
+
+\textbf{Q:} & Achetez-vous des melons une fois par mois en  & \textbf{R:} & Plutôt une fois par semaine quand il fait chaud.\\
+&été?&& Oui, pour les apéros entre amis.\\
+
+\textbf{Q:} & Mangez-vous des myrtilles rarement? & \textbf{R:} & Oui, une fois par an en forêt.\\
+&&& Non, souvent surgelées en smoothie.\\
+
+\textbf{Q:} & Goûtez-vous des pamplemousses une fois & \textbf{R:} & Environ, quand j'ai envie d'amer.\\
+&tous les deux mois?&& Non, quotidiennement au petit-déjeuner!\\
+\end{tabular}\
+\vspace{3em}
+\begin{center}
+
+\textbf{une pastèque} - a watermelon \:
+\textbf{une olive} - an olive \:
+\textbf{une poire} - a pear \\
+
+\textbf{un été} - a summer \: \textbf{un printemps} - a spring \\ \textbf{un automne} - an autumn  \: \textbf{un hiver} - a winter 
+\end{center}
+\vspace{1em}
+\begin{tabular}{ll | ll}
+\textbf{Q:}& De quelle saison est la pomme?  &  \textbf{R:} &  La pomme est le fruit de l'été ou de l'automne.\\
+\textbf{Q:}& De quelle saison est la fraise? & \textbf{R: }&La fraise est le fruit de l'été.\\
+\textbf{Q:}& De quelle saison est l'olive?& \textbf{R:}& L'olive est le fruit de...\\
+\textbf{Q:}& De quelle saison est la poire? & \textbf{R: }&La poire est...\\
+\textbf{Q:} &La banane et la pomme & \textbf{R:} & La banane et la pomme peuvent être de  \\
+&sont-elles de la même couleur ?   &&la même couleur. Cela dépend de la pomme. \\
+\textbf{Q:}& La poire, est-elle verte?     &\textbf{R:} & Oui, la poire est verte. \\
+\end{tabular}\\
+
+\textbf{un citron} - a lemon \:  
+\textbf{un ananas} - a pineapple \:
+\textbf{un raisin} - a grape \:
+\textbf{un abricot} - an apricot \\
+\subsection{Questions sur les fruits}
+\begin{tabular}{l l | l l}
+  \textbf{Q: }  & Aimes-tu manger des fruits?   &  \\
+   \textbf{Q: } &Quel est votre fruit préféré?   & \\
+    \textbf{Q: } & À quelle fréquence mangez-vous & \\
+    & des fruits frais? & & \\
+   \textbf{Q:}  & À votre avis, quel est le fruit le   & \\
+   & plus délicieux? && \\
+  \textbf{Q:}  & Préférez-vous les fruits sucrés   & \\
+  & ou acides? && \\
+  \textbf{Q:}  & Pensez-vous que les fruits sont   & \\
+  & bons pour la santé? && \\
+  \textbf{Q:}  & Pourquoi ou pourquoi pas?     & \\
+  \textbf{Q:}  & Êtes-vous ou aimeriez vous être   & \\
+  & végétarien? && \\
+  \textbf{Q:}  & À quelle fréquence buvez-vous   & \\
+  & du jus de fruits? && \\
+  \textbf{Q:}  & Quel type de jus de fruits   & \\
+  & buvez-vous? && \\
+  \textbf{Q:}  & Aimez-vous manger des salades   & \\
+  & de fruits? &&\\
+  \textbf{Q:}  & Quels types de fruits    & \\
+  & achetez-vous au supermarché? && \\
+  \textbf{Q:}  & Que signifie le dicton: "Une &\textbf{R: } & \\
+  & pomme par jour, éloigne le    & \\
+  & médecin, pourvu que l'on vise  && \\
+  & bien." par Winston Churchill? && \\
+  \textbf{Q:}  & Quels sont les fruits les plus    & \\
+  & courants dans votre pays? && \\
+  \textbf{Q:}  & Les fruits peuvent-ils vous   & \\
+  & aider à guérir des maladies? && \\
+   \textbf{Q:}  & Les fruits peuvent-ils vous   & \\
+   & aider à perdre du poids si vous suivez un régime? && \\
+  \textbf{Q:}  & Cultivez-vous des fruits dans votre jardin?   & \\  
+  \textbf{Q:} &  \textbf{Q: Aimez-vous utiliser des objets qui sentent les fruits?}   &  \textbf{R:} & \\
+  \textbf{Q: }  & Combien de fraises peux-tu manger en une fois ? & \textbf{R: } &\\
+  \textbf{Q: } &  Manges-tu souvent des oranges?& \textbf{R: }&\\
+  \textbf{Q: } & Préférez-vous les fruits rouges ou les fruits tropicaux?& \textbf{R: } & \\
+  \textbf{Q: } & Est-ce que tu as déjà goûté du fruit du dragon?&  \textbf{R: }& \\
+ \textbf{Q: } & Quel fruit trouvez-vous le plus sucré? & \textbf{R: }&\\
+ \end{tabular}
+ \\
+\begin{tabular}{l l | l l}
+  \textbf{Q: } & Est-ce que tu aimes les raisins verts ou rouges ? & \textbf{R: } & \\
+  \textbf{Q: } & Où achètes-tu tes fruits généralement?&  \textbf{R: }& \\
+   \textbf{Q: } & Quelle est la saison des cerises? & \textbf{R: }&\\
+  \textbf{Q: } &Quels fruits mets-tu dans une salade de fruits ? & \textbf{R: } & \\
+  \textbf{Q: } & As-tu déjà essayé de faire une tarte aux pommes? &  \textbf{R: }& \\
+   \textbf{Q: } & Est-ce que tu connais des fruits exotiques ? Si oui, lesquels ? & \textbf{R: }&\\
+  \textbf{Q: } & & \textbf{R: } & \\
+  \textbf{Q: } & &  \textbf{R: }& \\
+
+
+\end{tabular}
+\begin{tabular}{l l | l l}
+    
+
+
+
+
+
+
+    
+    
+\end{tabular}
+\section{Légumes}
+\textbf{une laitue, une salade} - a lettuce, a salad \: \textbf{une carotte} - a carrot \: \textbf{une tomate} - a tomato \: \textbf{une pomme de terre} - a potato \:   \\
+\textbf{un oignon} - an onion \: \textbf{}
+
+
+Aïl
+du maïs
+un haricot
+vert
+un petit pois
+un pois chiche
+(des légumes
+secs)
+un haricot
+blanc (des
+légumes secs)
+une lentille
+(des légumes
+secs)
+
+\section{Questions de niveau intermédiaire}
+1.  Êtes-vous gourmand (e) ?
+2. Quelle est la différence entre un gourmet et un gourmand ?
+3. Pensez-vous que la gourmandise est un vilain défaut ?
+4. Pouvez-vous citer quelques desserts souvent servis au restaurant ?
+5. Quel est pour vous le repas le plus important de la journée ? Pourquoi ?
+6. Quels sont les plats les plus consommés dans votre pays ?
+7. Pourriez-vous vous passer des produits laitiers ?
+8. Pensez-vous que nous mangions trop en général ?
+9. Quelles viennoiseries sont généralement vendues dans les boulangeries ?
+10. Vous êtes plutôt fromage ou dessert ?
+11. Connaissez-vous des fromages de chèvre? Lesquels ?
+12. Mangez vous régulièrement de la viande ou du poisson ?
+13. Quels aliments préférez-vous manger le matin ?
+14. Que pensez-vous de l’augmentation du nombre de véganes ?
+15. Quels sont les produits que vous ne consommez pas ? Pour quelles raisons ?
+16. Que buvez-vous pour accompagner votre repas ?
+17. Pratiquez-vous les arts de la table ?
+18. Pratiquez-vous le jeûne intermittent ?
+19. Quels sont selon vous les pires aliments pour la santé ?
+20. Quels sont selon vous les meilleurs aliment pour rester en bonne santé ?
+21. Avez-vous une alimentation saine ?
+22. Quel est votre péché mignon ?
+23. Chez vous qui prépare les repas en général ?
+24. Savez-vous cuisiner ? Êtes-vous un cordon-bleu ?
+25. Vous arrive-t-il de faire des détox ? Si oui, comment procédez-vous ?
+
+\section{Légumes}
+
+\textbf{une laitue / une salade} - a lettuce / a salad \: 
+\textbf{une carotte} - a carrot \: 
+\textbf{une tomate} - a tomato \: 
+\textbf{une pomme de terre} - a potato \: 
+\textbf{un oignon} - an onion \:
+\textbf{de l'ail} - garlic \:
+\textbf{du maïs} - corn \:
+\textbf{un haricot vert} - a green bean \:
+\textbf{un petit pois} - a pea \:
+\textbf{un pois chiche} - a chickpea \:
+\textbf{un haricot blanc} - a white bean \:
+\textbf{une lentille} - a lentil
+
+\begin{center}
+\textbf{manger} - to eat \: \: 
+\textbf{aimer} - to like \:\: 
+\textbf{tous les jours, chaque jour} - each day \:\:
+\textbf{Je mange} - I eat \: \: 
+\textbf{J'aime} - I like \\
+\textbf{Tu manges} - You eat \:\: 
+\textbf{Tu aimes} - You like \\
+\textbf{Je ne mange pas} - I don't eat \: 
+\textbf{Tu ne manges pas} - You don't eat \\
+\textbf{Est-ce que vous mangez...?} - Do you eat...? (polite)
+\end{center}
+
+\begin{tabular}{l l|l l}
+\textbf{Q:} & Est-ce que vous mangez des carottes chaque jour? & \textbf{R:} & Oui, je mange des carottes tous les jours.\\ 
+& & \textbf{R:} & Non, je ne mange pas de carottes chaque jour.\\
+\textbf{Q:} & Est-ce que vous aimez les tomates? & \textbf{R:} & Oui, j'aime les tomates.\\
+& & \textbf{R:} & Non, je n'aime pas les tomates.\\
+& & \textbf{R:} & Elles me sont indifférentes.\\
+\textbf{Q:} & Est-ce que vous mangez de la salade tous les jours? & \textbf{R:} & Oui, je mange de la salade tous les jours.\\
+& & \textbf{R:} & Non, je ne mange pas de salade tous les jours.\\
+\textbf{Q:} & Aimez-vous les petits pois? & \textbf{R:} & Oui, j'aime bien les petits pois.\\
+& & \textbf{R:} & Non, je n’aime pas ça.\\
+\end{tabular}
+
+\begin{center}
+\textbf{une fois par semaine} - once a week \:\: 
+\textbf{une fois par mois} - once a month \:\: 
+\textbf{pas souvent} - not often \:\:
+\textbf{souvent} - often \:\:
+\textbf{rarement} - rarely
+\end{center}
+
+\begin{tabular}{l l|l l}
+\textbf{Q:} & À quelle fréquence mangez-vous des lentilles ? & \textbf{R:} & Je mange des lentilles une fois par semaine. \\
+& & \textbf{R:} & Je ne mange presque jamais de lentilles. \\
+\textbf{Q:} & Mangez-vous souvent des pommes de terre ? & \textbf{R:} & Oui, assez souvent.\\
+& & \textbf{R:} & Non, pas trop. \\
+\textbf{Q:} & Est-ce que vous aimez l’ail ? & \textbf{R:} & Oui, j’adore cuisiner avec de l’ail. \\
+& & \textbf{R:} & Non, je déteste l’odeur de l’ail. \\
+\end{tabular}
+
+\begin{tabular}{l l|l l}
+\textbf{Q:} & De quelle couleur est la carotte ? & \textbf{R:} & La carotte est orange.\\
+\textbf{Q:} & De quelle couleur est la tomate ? & \textbf{R:} & Elle est rouge.\\
+\textbf{Q:} & De quelle couleur est la salade ? & \textbf{R:} & Elle est verte.\\
+\textbf{Q:} & Les oignons, de quelle couleur sont-ils ? & \textbf{R:} & Ils peuvent être blancs, rouges ou jaunes.\\
+\textbf{Q:} & De quelle couleur est le maïs ? & \textbf{R:} & Il est jaune.\\
+\end{tabular}
+
+\begin{center}
+\textbf{un légume} - a vegetable \:
+\textbf{une soupe} - a soup \:
+\textbf{un plat chaud} - a hot dish \:
+\textbf{un plat végétarien} - a vegetarian dish \:
+\textbf{cuit / cru} - cooked / raw \:
+\textbf{bio} - organic \:
+\textbf{local} - local
+\end{center}
+
+\subsection{Questions sur les légumes}
+\begin{tabular}{l l | l l}
+\textbf{Q:} & Aimez-vous manger des légumes ? & \textbf{R:} & Oui, j’en mange beaucoup.\\
+\textbf{Q:} & Quel est votre légume préféré ? & \textbf{R:} & J’adore les carottes.\\
+\textbf{Q:} & Quels légumes mettez-vous dans une soupe ? & \textbf{R:} & Des pommes de terre, des carottes et des oignons.\\
+\textbf{Q:} & À quelle fréquence mangez-vous des légumes frais ? & \textbf{R:} & Tous les jours.\\
+\textbf{Q:} & Préférez-vous les légumes cuits ou crus ? & \textbf{R:} & J’aime les deux.\\
+\textbf{Q:} & Les légumes sont-ils bons pour la santé ? & \textbf{R:} & Bien sûr, ils sont essentiels !\\
+\textbf{Q:} & Achetez-vous des légumes bio ou locaux ? & \textbf{R:} & Oui, j’essaie autant que possible.\\
+\textbf{Q:} & Est-ce que vous cultivez des légumes chez vous ? & \textbf{R:} & Non, je n’ai pas de jardin.\\
+\textbf{Q:} & Quel légume trouvez-vous le plus savoureux ? & \textbf{R:} & Les tomates mûres en été !\\
+\textbf{Q:} & Connaissez-vous des légumes exotiques ? & \textbf{R:} & Oui, comme le gombo ou le manioc.\\
+\end{tabular}
+
+\end{document}
